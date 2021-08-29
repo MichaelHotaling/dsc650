@@ -1,0 +1,173 @@
+{
+    "head": {
+        "vars": [
+            "date",
+            "event",
+            "eventLabel"
+        ]
+    },
+    "results": {
+        "bindings": [
+            {
+                "date": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+                    "type": "literal",
+                    "value": "2021-06-12T00:00:00Z"
+                },
+                "event": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q89411340"
+                },
+                "eventLabel": {
+                    "type": "literal",
+                    "value": "Electronic Entertainment Expo 2021",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "date": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+                    "type": "literal",
+                    "value": "2021-06-06T00:00:00Z"
+                },
+                "event": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q96182806"
+                },
+                "eventLabel": {
+                    "type": "literal",
+                    "value": "2018 general elections in Chihuahua",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "date": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+                    "type": "literal",
+                    "value": "2021-06-05T00:00:00Z"
+                },
+                "event": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q101803987"
+                },
+                "eventLabel": {
+                    "type": "literal",
+                    "value": "2021 Latvian municipal elections",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "date": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+                    "type": "literal",
+                    "value": "2021-06-01T00:00:00Z"
+                },
+                "event": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q104881876"
+                },
+                "eventLabel": {
+                    "type": "literal",
+                    "value": "2021 New Mexico's 1st congressional district special election",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "date": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+                    "type": "literal",
+                    "value": "2021-05-31T00:00:00Z"
+                },
+                "event": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q106410288"
+                },
+                "eventLabel": {
+                    "type": "literal",
+                    "value": "American Ninja Warrior, season 13",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "date": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+                    "type": "literal",
+                    "value": "2021-05-27T00:00:00Z"
+                },
+                "event": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q106603523"
+                },
+                "eventLabel": {
+                    "type": "literal",
+                    "value": "Wikidata Lab XXIX",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "date": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+                    "type": "literal",
+                    "value": "2021-06-01T00:00:00Z"
+                },
+                "event": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q106788884"
+                },
+                "eventLabel": {
+                    "type": "literal",
+                    "value": "Natural objects of Estonia",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "date": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+                    "type": "literal",
+                    "value": "2021-05-18T00:00:00Z"
+                },
+                "event": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q106848695"
+                },
+                "eventLabel": {
+                    "type": "literal",
+                    "value": "Dans le marbre et l'airain. La m\u00e9moire des Bonaparte en Corse",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "date": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+                    "type": "literal",
+                    "value": "2021-05-16T00:00:00Z"
+                },
+                "event": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q106861525"
+                },
+                "eventLabel": {
+                    "type": "literal",
+                    "value": "Giv'at Ze'ev disaster",
+                    "xml:lang": "en"
+                }
+            },
+            {
+                "date": {
+                    "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+                    "type": "literal",
+                    "value": "2021-05-19T00:00:00Z"
+                },
+                "event": {
+                    "type": "uri",
+                    "value": "http://www.wikidata.org/entity/Q106882435"
+                },
+                "eventLabel": {
+                    "type": "literal",
+                    "value": "Peintres femmes, 1780-1830. Naissance d'un combat",
+                    "xml:lang": "en"
+                }
+            }
+        ]
+    }
+}
