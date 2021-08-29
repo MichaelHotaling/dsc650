@@ -1,1 +1,6 @@
-format,uncompressed,gzip,snappy
+file,size_MB
+routes.avro,18.73606014251709
+routes.parquet,1.8663101196289062
+routes.pb,21.500144958496094
+routes.pb.snappy,3.592641830444336
+validation-results.csv,57.147178649902344
