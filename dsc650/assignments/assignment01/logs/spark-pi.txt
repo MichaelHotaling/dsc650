@@ -1,0 +1,8 @@
+Using Spark's default log4j profile: org/apache/spark/log4j-defaults.properties
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+
+[Stage 0:>                                                          (0 + 0) / 2]
+
+                                                                                                                           
+Pi is roughly 3.140520
